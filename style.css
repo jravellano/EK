@@ -15,7 +15,7 @@ p{
     overflow:hidden;
 
     font-size:6px;
-    line-height:4px;
+    line-height:5px;
     letter-spacing:-0.5px;
     word-break:break-all;
 
@@ -27,4 +27,6 @@ p{
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color:transparent;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
